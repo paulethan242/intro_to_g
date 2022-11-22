@@ -5,6 +5,13 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
+# Testings hastag size
+Hello <br>
+This is on another line as well.
+<h1>heading</h1>
+
+<h2>heading</h2>
+
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
