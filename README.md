@@ -8,9 +8,11 @@
 # Testings hastag size
 Hello <br>
 This is on another line as well.
-<h1>heading</h1>
+<h1>heading h1</h1>
 
-<h2>heading</h2>
+<h2>heading h2</h2>
+
+<h3>heading h3</h3>
 
 # Introduction to GitHub
 
